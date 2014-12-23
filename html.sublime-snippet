@@ -1,0 +1,53 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="" rel="stylesheet"> 	<!-- core CSS -->
+    <link rel="icon" href=""> 			<!-- Tab icon -->
+    <title>TheSite</title>               <!-- Tab Title -->
+
+    	<!-- For internal CSS file -->
+		<style>        
+		</style>	
+
+</head>
+<body>
+	<div class="header">
+	</div>
+
+	<div class="content">
+		$0
+	</div>
+
+	<div class="footer">
+	</div>
+
+
+	<script src=""></script>  <!-- Javscript File -->
+	<script src=""></script>  <!-- jQuery file -->
+	<script src=""></script>  <!-- Custom -->
+
+	<--Bootstrap jQuery code must be written in this format!
+
+		$(function(){
+			//content in here
+		});
+
+		OR jQuery can be written like this:
+
+
+		$(document).ready(function(){
+			//content in here
+		});
+
+	-->
+
+
+</body>
+</html>]]></content>
+	<tabTrigger>fuck</tabTrigger>
+</snippet>

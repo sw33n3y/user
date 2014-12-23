@@ -1,0 +1,26 @@
+[
+	{ "keys": ["shift+enter"], "command": "move_to", "args": {"to": "eol", "forward": true} },  	
+	
+	{ "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+	
+	{ "keys": ["f8"],
+		"command": "side_bar_open_in_browser" ,
+		"args":{"paths":[], "type":"testing", "browser":""}
+	},
+
+	{ "keys": ["f4"], "command": "open_terminal_project_folder" },
+	
+    
+]
+
+
+//shift+enter                = Move to end of line
+//ctrl+ d                    = finds and selects all of the currently highlighted text
+//shift+left/right           = Highlight 
+//shift+ctrl+left/right      = Highlight 1 word at a time.
+// 
+//Shift + Rclick    		- drag to select a column
+//Ctrl + Shift + Rclick 	- to add another column to the selection
+//Alt + Shift + Rclick 		- to subtract a column from the selection
+//Ctrl + Lclick 			- to add individual cursors (rather than columns)
+//Alt + Lclick 			    - to remove individual cursors//

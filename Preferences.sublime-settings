@@ -1,0 +1,34 @@
+{
+	"auto_complete_delay": 200,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/SpaceCadet.tmTheme",
+	"enable_telemetry": "disable",
+	"fade_fold_buttons": false,
+	"font_size": 13,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw active"
+	],
+	"indent_subsequent_lines": true,
+	"margin": -4,
+	"match_brackets_angle": false,
+	"scroll_speed": 0.1,
+	"soda_classic_tabs": false,
+	"theme": "Soda Dark 3.sublime-theme"
+}
